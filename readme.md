@@ -1,1 +1,4 @@
-Hello World. This is the readme of repository.
+1st Git repository
+Hello World
+Hello world
+Author --Prakash Bhatt
